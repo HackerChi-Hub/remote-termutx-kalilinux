@@ -1,5 +1,3 @@
-下面是针对你 **在 Termux 里的 Kali Linux 容器环境使用** 场景，专门补充说明过的 README 版本。你可以直接把下面内容保存成 `README.md`，或者把“Termux + Kali”相关部分合并进你已有的 README。
-
 ```markdown
 # kalinethunter-remote (LF 版本)
 
