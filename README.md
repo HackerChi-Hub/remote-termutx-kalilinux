@@ -1,4 +1,3 @@
-```markdown
 # kalinethunter-remote (LF 版本)
 
 > 适用于 Termux 中的 Kali Linux / Debian / Ubuntu 容器  
