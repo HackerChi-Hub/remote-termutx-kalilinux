@@ -34,14 +34,6 @@
 
 ```bash
 pkg update && pkg upgrade -y
-pkg install -y proot-distro openssh
-```
-
-例如使用 `proot-distro` 安装 Kali：
-
-```bash
-proot-distro install kali
-proot-distro login kali
 ```
 
 进入 Kali 后，后续所有操作都在 **Kali 容器内部** 执行。
